@@ -2,4 +2,4 @@
 layout: post
 ---
 
-Some content
+Some draft content
