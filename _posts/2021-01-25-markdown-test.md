@@ -1,5 +1,7 @@
 ---
 layout: post
+categories: jekyll blog
+tags: [markdown]
 ---
 
 # Markdown extensions

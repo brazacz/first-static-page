@@ -1,11 +1,12 @@
 ---
 title:  How to use Multiple Images in a Masonry-style layout
+categories: jekyll themes
 tags:
   - Friday Theme
-  - HTML
+  - web
   - images
-  - Markdown
-  - Liquid
+  - markdown
+  - liquid
   - Image Gallery
 images:
   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
